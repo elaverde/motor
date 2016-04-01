@@ -1,4 +1,5 @@
 /**
+ *audtor edilson laverde
  * Convert an image
  * to a base64 string
  * @param  {String}   url
